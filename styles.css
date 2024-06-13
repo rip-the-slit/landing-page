@@ -181,3 +181,12 @@ body {
     font-size: 18px;
     margin: 0;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 25px;
+}
